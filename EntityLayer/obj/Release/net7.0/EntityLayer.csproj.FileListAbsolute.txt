@@ -1,0 +1,12 @@
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/bin/Release/net7.0/EntityLayer.deps.json
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/bin/Release/net7.0/EntityLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/bin/Release/net7.0/EntityLayer.pdb
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Release/net7.0/EntityLayer.csproj.AssemblyReference.cache
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Release/net7.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Release/net7.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Release/net7.0/EntityLayer.AssemblyInfo.cs
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Release/net7.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Release/net7.0/EntityLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Release/net7.0/refint/EntityLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Release/net7.0/EntityLayer.pdb
+/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Release/net7.0/ref/EntityLayer.dll

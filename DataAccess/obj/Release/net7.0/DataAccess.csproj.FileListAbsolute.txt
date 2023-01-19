@@ -1,0 +1,17 @@
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/bin/Release/net7.0/DataAccess.deps.json
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/bin/Release/net7.0/EntityLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/bin/Release/net7.0/EntityLayer.pdb
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/DataAccess.AssemblyInfo.cs
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/DataAccess.csproj.CopyComplete
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/DataAccess.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/refint/DataAccess.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/DataAccess.pdb
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/DataAccess.genruntimeconfig.cache
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/bin/Release/net7.0/DataAccess.runtimeconfig.json
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/bin/Release/net7.0/DataAccess.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/bin/Release/net7.0/DataAccess.pdb
+/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/Release/net7.0/ref/DataAccess.dll

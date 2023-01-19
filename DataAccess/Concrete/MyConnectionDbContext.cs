@@ -17,7 +17,7 @@ namespace DataAccess.Concrete
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            const string ConnetDeveloper = "server=localhost;port=3306;database=YeniNews;user=root;password=0987654321;Charset=utf8;";
+            const string ConnetDeveloper = "server=sql11.freemysqlhosting.net;port=3306;database=sql11591860;user=sql11591860;password=gFU2PNWazT;Charset=utf8;";
          
             optionsBuilder.UseLazyLoadingProxies()
                 .UseMySql(ConnetDeveloper, ServerVersion.AutoDetect(ConnetDeveloper))

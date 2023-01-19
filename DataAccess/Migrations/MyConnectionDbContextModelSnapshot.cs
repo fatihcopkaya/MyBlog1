@@ -71,7 +71,7 @@ namespace DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<DateTime>("CreatedDateTime")
-                        .HasColumnType("datetime(6)");
+                        .HasColumnType("datetime");
 
                     b.Property<int>("UserId")
                         .HasColumnType("int");
@@ -118,7 +118,7 @@ namespace DataAccess.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<DateTime>("CommentDate")
-                        .HasColumnType("datetime(6)");
+                        .HasColumnType("datetime");
 
                     b.Property<bool>("CommentStatus")
                         .HasColumnType("tinyint(1)");
@@ -143,7 +143,7 @@ namespace DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<DateTime>("ContactDate")
-                        .HasColumnType("datetime(6)");
+                        .HasColumnType("datetime");
 
                     b.Property<string>("ContactMail")
                         .HasColumnType("longtext");

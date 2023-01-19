@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9a323354-8f09-4bb4-8429-b84fd60713de/AppServices/subscriptions/9a323354-8f09-4bb4-8429-b84fd60713de/resourceGroups/DefaultResourceGroup-WEU/providers/Microsoft.Web/sites/news54",
+    "appService.deploySubpath": "Publish"
+}

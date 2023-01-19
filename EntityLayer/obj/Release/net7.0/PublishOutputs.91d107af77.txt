@@ -1,0 +1,3 @@
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/EntityLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/EntityLayer.deps.json
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/EntityLayer.pdb
