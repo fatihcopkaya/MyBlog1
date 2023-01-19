@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7F4E10A0-0030-4B3E-980D-8B8B4C3EBD73}|https">
+  <MonoDevelop.Ide.ItemProperties.MyBlog.UI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyBlog.UI/Views/Register/Index.cshtml">
+    <Files>
+      <File FileName="MyBlog.UI/Views/Register/Index.cshtml" Line="4" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyBlog" expanded="True">
+            <Node name="MyBlog.UI" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Register" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,68 @@
+@using EntityLayer
+@model List<Blog>
+@{
+    ViewData["Title"] = "BlogListByWriter";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+<h1>Bloglarım</h1>
+<table class="table table-bordered">
+    <tr>
+        <th>BlogId</th>
+        <th>Blog Başlığı</th>
+        <th>Oluşturulma Tarihi</th>
+        <th>Kategori</th>
+        <th>Durum</th>
+        <th>Düzenle</th>
+        <th>Durum</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>@item.BlogId</th>
+            <td>@item.BlogTitle</td>
+            <td>@(((DateTime)item.CreatedDateTime).ToString("dd-MM-yyyy"))</td>
+            <td>@item.Category.CategoryName</td>
+            @if (item.BlogStatus)
+            {
+                <td><span class="badge badge-primary">Aktif</span></td>
+            }
+            else
+            {
+                <td><span class="badge badge-primary">Pasif</span></td>
+            }
+            <td><a asp-controller="Blog" asp-action="EditBlog" asp-route-id="@item.BlogId"
+                class="btn btn-warning">Düzenle</a></td>
+
+            @* burdan id alacak *@
+            <td><a asp-controller="Blog" asp-action="DeleteBlog" asp-route-id="@item.BlogId" OnClick="confirm(@item.BlogId)" class="btn btn-danger">Sil</a></td>
+        </tr>
+    }
+</table>
+<a asp-action="BlogAdd" asp-controller="Blog" class="btn btn-success">Yeni Blog Oluştur</a>
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script type="text/javascript">
+    function confirm(id) {
+        swal({
+            title: "Silmek İstediğine emin misin?",
+            text: "Bu blog silindiği zaman bir daha kurtaramayacaksınız!",
+            icon: "warning",
+            buttons: true,
+            dangerMode: true
+        }).then(function (isConfirm) {
+            if (isConfirm) {
+                swal("Kayıt Silindi!", {
+                   
+                   @* Bu alttaki işlemi denedim olmadı  *@
+                    url: '@Url.Action("BlogRemove", "Blog")',
+                    data: { 'id': id },
+                   
+                    icon: "success"
+                });
+            } else {
+                swal("Kayıt hala güvende");
+            }
+        });
+        return false;
+    }
+</script>

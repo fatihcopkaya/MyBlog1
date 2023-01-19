@@ -1,0 +1,30 @@
+@model EntityLayer.Category
+<form method="post" asp-action="EditCategory">
+    <div class="border pt-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Kategori Düzenle</h2>
+            <hr />
+        </div>
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <label asp-for="CategoryName">Kategori Başlığı</label>
+            <input asp-for="CategoryName" class="form-control" />
+            <span asp-validation-for="CategoryName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="CategoryDescription">Kategori Açıklaması</label>
+            <input asp-for="CategoryDescription" class="form-control" />
+            <span asp-validation-for="CategoryDescription" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary" style="widht:150px">Güncelle</button>
+        <a asp-controller="Category" asp-action="categoryList" class="btn btn-secondary" style="150px">
+            Listeye Dön
+        </a>
+    </div>
+</form>
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

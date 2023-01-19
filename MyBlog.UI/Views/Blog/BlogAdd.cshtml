@@ -1,0 +1,50 @@
+@model BlogVm
+@{
+    ViewData["Title"] = "BlogAdd";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+<h1>Blog Ekleme</h1>
+<form asp-action="BlogAdd" asp-controller="Blog" method="post" enctype="multipart/form-data"> 
+    <div class="form-row">
+        <div class="col-md-6 mb-3">
+            <label for="validationCustom01">Blog Başlık</label>
+            <input type="text" asp-for="Blog.BlogTitle" class="form-control" id="validationDefault01"
+                placeholder="Başlığı Giriniz" required>
+            <span asp-validation-for="Blog.BlogTitle" class="text-danger"></span>
+        </div>
+    </div>
+    <br>
+
+    <div class="form-row">
+        <div class="col-md-6 mb-3">
+            <label for="validationCustom02">Blog Fotoğrafı</label>
+            <input type="file" name="file"  class="form-control" id="file" required>
+        </div>
+        <br>
+    </div>
+    <br>
+  
+    <div class="form-group mb-3">
+        <label class="form-label" asp-for="Blog.CategoryId">Category</label>
+        <select class="form-select" asp-for="Blog.CategoryId">
+            <option value="" selected>Select</option>
+            @foreach (var item in Model.Categories)
+            {
+                <option value="@item.CategoryId">@item.CategoryName</option>
+
+            }
+        </select>
+        <span class="text-danger" asp-validation-for="Blog.CategoryId"></span>
+    </div>
+
+
+    <div class="form-row">
+        <div class="col-md-6 mb-3">
+            <label for="validationCustom02">Blog İçeriği</label>
+            <textarea asp-for="Blog.BlogContent" class="form-control" id="validationDefault02" cols="30" rows="10"
+                placeholder="Blog İçeriğini Giriniz" required></textarea>
+            <span asp-validation-for="Blog.BlogContent" class="text-danger"></span>
+        </div>
+    </div>
+    <button type="submit" asp-action="BlogAdd" asp-controller="Blog" class="btn btn-info">Blog Ekle</button>
+</form>

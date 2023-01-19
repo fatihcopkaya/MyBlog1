@@ -1,0 +1,42 @@
+@model EntityLayer.Comments
+<form method="post" asp-controller="Comment" asp-action="Delete">
+    <input asp-for="CommentId" hidden />
+    <div class="border pt-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Kategori Sil</h2>
+            <hr />
+        </div>
+        <div asp-validation-summary="All"></div>
+          <div class="mb-3">
+            <label asp-for="BlogId">Blog Id</label>
+            <input asp-for="BlogId" disabled class="form-control" />
+
+        </div>
+          <div class="mb-3">
+            <label asp-for="CommentId">CommentId</label>
+            <input asp-for="CommentId" disabled class="form-control" />
+
+        </div>
+        <div class="mb-3">
+            <label asp-for="CommentTitle">Yorum Başlığı</label>
+            <input asp-for="CommentTitle" disabled class="form-control" />
+
+        </div>
+        <div class="mb-3">
+            <label asp-for="CommentContent">Yorum Açıklaması</label>
+            <input asp-for="CommentContent" disabled class="form-control" />
+
+        </div>
+      
+        <button type="submit" class="btn btn-danger" style="widht:150px">Sil</button>
+        <a asp-controller="Comment" asp-action="CommentListByBlog" class="btn btn-secondary" style="150px">
+            Listeye Dön
+        </a>
+    </div>
+</form>
+@section Scripts
+{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

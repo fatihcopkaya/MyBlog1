@@ -1,0 +1,71 @@
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+
+
+<body>
+    <section class="main-content-w3layouts-agileits">
+        <div class="container">
+            <h3 class="tittle">Hakkımızda</h3>
+            <div class="row inner-sec">
+                <!--left-->
+                <div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
+                    <div class="blog-grid-top">
+
+                        <div class="blog_info_left_grid">
+                            <a href="single.html">
+                                <img src="~/web/images/b5.jpg" class="img-fluid" alt="">
+                            </a>
+                        </div>
+                        <h3>
+                            Hakkımızda
+                        </h3>
+                        <p> Güncel, Politika, Spor, Magazin, Kültür ve Sanat, Dış Haberler ve diğer tüm
+                            kategorilerde güncel haber sunmak ve internet kullanıcısının habere ulaşmasını
+                            kolaylaştırmak için oluşturulmuş geniş kapsamlı bir haber portalıdır.
+                            <br>
+
+                            İLKELERİMİZ
+                            Tarafsız Habercilik: Sitemizde yayınlanan haberlere konu olan olaylara veya haberlerde adı
+                            geçen kişilere tam bir tarafsızlık içinde yaklaşmaktayız. Biz haberi okura ulaştıran “aracı”
+                            olarak, hiç bir haberin anlamını değiştirmemeyi ve hiç bir haberi manipüle etmemeyi ilke
+                            edinmiş bulunuyoruz.
+                            <br>
+
+                            Mimiksiz Habercilik: Okurlarımıza sunduğumuz haberlerin içeriğinin “iyi haber / kötü haber”,
+                            “müjdeli haber / kara haber” olması ile ilgilenmiyoruz. Haberi sunarken, okura “şimdi
+                            sevinmelisin” veya “şimdi üzülmesin” havası ile sunmuyor; yalnızca gerçeği, yalnızca
+                            olanları, aktarıyoruz. Bir haberin okurda ne tür duygular uyandıracağı okurun karar vereceği
+                            bir konudur.
+                            <br>
+
+                            Açıklık: Herhangi bir gerçeğin ve herhangi bir olayın kenara itilmemesi, bilinçli veya
+                            bilinçsiz bir şekilde minik puntolarla bir kenara atılarak gözden saklanmaması gerektiğini
+                            savunuyoruz. Her ne olduysa ve her ne olay haber niteliği taşıyorsa bizim konumuzdur ve
+                            okurun bunu bilmeye öğrenmeye hakkı vardır. Hiç bir haberi saklamayacağız, küçültmeyeceğiz,
+                            gözden kaçırmayacağız.</p>
+                        <a asp-action="Index" asp-controller="Blog" class="btn btn-primary read-m">Haberlere Dön</a>
+                    </div>
+                </div>
+                <!--//left-->
+                <!--right-->
+                <aside class="col-lg-4 agileits-w3ls-right-blog-con text-right">
+                    <div class="right-blog-info text-left">
+                        <div class="tech-btm">
+                            <img src="~/web/images/banner1.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                </aside>
+                <!--//right-->
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>
