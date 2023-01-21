@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0yOzj4K5+kJWGTgQUxm7FsDLr54dhnZXN7t5VXHw6TM=",
+  "Hash": "7w5MQxGHFHwB/H85oimf8zzxx8TMKkc4sUbTjEAX71g=",
   "Source": "MyBlog.UI",
   "BasePath": "_content/MyBlog.UI",
   "Mode": "Default",
@@ -26945,6 +26945,23 @@
       "OriginalItemSpec": "wwwroot/file/Photos/01c665f8f3be4a4.jpeg"
     },
     {
+      "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/07f26875153742e.jpeg",
+      "SourceId": "MyBlog.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/",
+      "BasePath": "_content/MyBlog.UI",
+      "RelativePath": "file/Photos/07f26875153742e.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/file/Photos/07f26875153742e.jpeg"
+    },
+    {
       "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/08351cfaf83042d.jpeg",
       "SourceId": "MyBlog.UI",
       "SourceType": "Discovered",
@@ -27489,6 +27506,23 @@
       "OriginalItemSpec": "wwwroot/file/Photos/456aefa68f12403.jpeg"
     },
     {
+      "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/4b46ab0d085049d.jpeg",
+      "SourceId": "MyBlog.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/",
+      "BasePath": "_content/MyBlog.UI",
+      "RelativePath": "file/Photos/4b46ab0d085049d.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/file/Photos/4b46ab0d085049d.jpeg"
+    },
+    {
       "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/4c564e2757df438.jpeg",
       "SourceId": "MyBlog.UI",
       "SourceType": "Discovered",
@@ -27538,6 +27572,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/file/Photos/52b42c2722e6480.jpeg"
+    },
+    {
+      "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/53e5a60a140b4a0.jpeg",
+      "SourceId": "MyBlog.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/",
+      "BasePath": "_content/MyBlog.UI",
+      "RelativePath": "file/Photos/53e5a60a140b4a0.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/file/Photos/53e5a60a140b4a0.jpeg"
     },
     {
       "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/5565c36e5a95486.jpeg",
@@ -27708,6 +27759,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/file/Photos/6b00b460f44341f.jpeg"
+    },
+    {
+      "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/6b63c14b8e2f45d.jpeg",
+      "SourceId": "MyBlog.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/",
+      "BasePath": "_content/MyBlog.UI",
+      "RelativePath": "file/Photos/6b63c14b8e2f45d.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/file/Photos/6b63c14b8e2f45d.jpeg"
     },
     {
       "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/6c86f838dbb8488.jpeg",
@@ -27999,6 +28067,23 @@
       "OriginalItemSpec": "wwwroot/file/Photos/944894cb5e9d49f.jpeg"
     },
     {
+      "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/98114d388fca4a0.jpeg",
+      "SourceId": "MyBlog.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/",
+      "BasePath": "_content/MyBlog.UI",
+      "RelativePath": "file/Photos/98114d388fca4a0.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/file/Photos/98114d388fca4a0.jpeg"
+    },
+    {
       "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/997ffb87e3994d8.jpeg",
       "SourceId": "MyBlog.UI",
       "SourceType": "Discovered",
@@ -28235,6 +28320,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/file/Photos/bd7b4e0532b941a.jpeg"
+    },
+    {
+      "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/c20be7d0f1b041a.jpeg",
+      "SourceId": "MyBlog.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/",
+      "BasePath": "_content/MyBlog.UI",
+      "RelativePath": "file/Photos/c20be7d0f1b041a.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/file/Photos/c20be7d0f1b041a.jpeg"
     },
     {
       "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/c5b7e41cf35f43e.jpeg",
@@ -28507,6 +28609,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/file/Photos/f337e60f0f9d422.jpeg"
+    },
+    {
+      "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/f683d2eb796146b.jpeg",
+      "SourceId": "MyBlog.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/",
+      "BasePath": "_content/MyBlog.UI",
+      "RelativePath": "file/Photos/f683d2eb796146b.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/file/Photos/f683d2eb796146b.jpeg"
     },
     {
       "Identity": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/f7572efcd440455.jpeg",

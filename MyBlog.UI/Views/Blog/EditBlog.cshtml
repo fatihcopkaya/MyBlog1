@@ -3,11 +3,11 @@
     ViewData["Title"] = "BlogAdd";
     Layout = "~/Views/Shared/WriterLayout.cshtml";
 }
-<h1>Blog Ekleme</h1>
+<h1>Haber Ekleme</h1>
 <form asp-action="EditBlog" asp-controller="Blog" method="post" enctype="multipart/form-data"> 
     <div class="form-row">
         <div class="col-md-6 mb-3">
-            <label for="validationCustom01">Blog Başlık</label>
+            <label for="validationCustom01">Haber Başlık</label>
             <input type="text" asp-for="Blog.BlogTitle" class="form-control" id="validationDefault01"
                 placeholder="Başlığı Giriniz" required>
             <span asp-validation-for="Blog.BlogTitle" class="text-danger"></span>
@@ -17,7 +17,7 @@
 
     <div class="form-row">
         <div class="col-md-6 mb-3">
-            <label for="validationCustom02">Blog Fotoğrafı</label>
+            <label for="validationCustom02">Haber Fotoğrafı</label>
             <input type="file" name="file"  class="form-control" id="file" required>
         </div>
         <br>
@@ -40,11 +40,11 @@
 
     <div class="form-row">
         <div class="col-md-6 mb-3">
-            <label for="validationCustom02">Blog İçeriği</label>
+            <label for="validationCustom02">Haber İçeriği</label>
             <textarea asp-for="Blog.BlogContent" class="form-control" id="validationDefault02" cols="30" rows="10"
                 placeholder="Blog İçeriğini Giriniz" required></textarea>
             <span asp-validation-for="Blog.BlogContent" class="text-danger"></span>
         </div>
     </div>
-    <button type="submit" asp-action="EditBlog" asp-controller="Blog" class="btn btn-info">Blog Ekle</button>
+    <button type="submit" asp-action="EditBlog" asp-controller="Blog" class="btn btn-info">Haber Ekle</button>
 </form>

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
+      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/.DS_Store",
+      "PackagePath": "staticwebassets/admin/.DS_Store"
+    },
+    {
       "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/.gitignore",
       "PackagePath": "staticwebassets/admin/.gitignore"
     },
@@ -83,6 +87,10 @@
     {
       "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/contacts_2.html",
       "PackagePath": "staticwebassets/admin/contacts_2.html"
+    },
+    {
+      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/css/.DS_Store",
+      "PackagePath": "staticwebassets/admin/css/.DS_Store"
     },
     {
       "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/css/animate.css",
@@ -163,6 +171,10 @@
     {
       "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/css/patterns/triangular.png",
       "PackagePath": "staticwebassets/admin/css/patterns/triangular.png"
+    },
+    {
+      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/css/plugins/.DS_Store",
+      "PackagePath": "staticwebassets/admin/css/plugins/.DS_Store"
     },
     {
       "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/css/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css",
@@ -1159,6 +1171,10 @@
     {
       "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/idle_timer.html",
       "PackagePath": "staticwebassets/admin/idle_timer.html"
+    },
+    {
+      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/img/.DS_Store",
+      "PackagePath": "staticwebassets/admin/img/.DS_Store"
     },
     {
       "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/admin/img/a1.jpg",
@@ -6323,394 +6339,6 @@
     {
       "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/.DS_Store",
       "PackagePath": "staticwebassets/file/.DS_Store"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/012997e80bb5464.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/012997e80bb5464.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/01c665f8f3be4a4.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/01c665f8f3be4a4.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/08351cfaf83042d.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/08351cfaf83042d.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/095ab02acd9f45d.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/095ab02acd9f45d.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/0a70551041b64b1.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/0a70551041b64b1.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/0e344d35f72d416.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/0e344d35f72d416.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/0ea254aa33d0497.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/0ea254aa33d0497.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/101b9b68acd64ec.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/101b9b68acd64ec.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/10dea93beefd450.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/10dea93beefd450.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/12505ce322e8496.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/12505ce322e8496.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/174b76e601d841c.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/174b76e601d841c.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/1ac934c68e0349a.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/1ac934c68e0349a.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/1c118ad7dd3a4b3.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/1c118ad7dd3a4b3.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/1d7ab0ae5a16457.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/1d7ab0ae5a16457.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/1fbc0584340a47f.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/1fbc0584340a47f.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/21393981208540f.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/21393981208540f.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/2ab9b30eeb6e466.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/2ab9b30eeb6e466.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/2e403120191e40d.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/2e403120191e40d.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/2f60e66b2d7e492.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/2f60e66b2d7e492.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/329f370eab9c496.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/329f370eab9c496.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/33ccfed6fc8b43a.png",
-      "PackagePath": "staticwebassets/file/Photos/33ccfed6fc8b43a.png"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/38110b90b84347f.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/38110b90b84347f.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/392059cb66a04c1.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/392059cb66a04c1.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/3b33a807fd0147d.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/3b33a807fd0147d.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/3df62affbcc04d9.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/3df62affbcc04d9.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/3e6c17ccc252468.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/3e6c17ccc252468.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/413148020a00431.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/413148020a00431.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/415cb25754294d2.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/415cb25754294d2.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/41f136f6ea1242f.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/41f136f6ea1242f.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/42296bb13e6c4fb.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/42296bb13e6c4fb.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/43d7902617f24f6.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/43d7902617f24f6.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/440c2509137a4d5.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/440c2509137a4d5.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/456463a675704ae.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/456463a675704ae.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/456aefa68f12403.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/456aefa68f12403.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/4c564e2757df438.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/4c564e2757df438.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/4f067c9a2687499.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/4f067c9a2687499.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/52b42c2722e6480.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/52b42c2722e6480.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/5565c36e5a95486.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/5565c36e5a95486.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/55d7097de3cc4c2.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/55d7097de3cc4c2.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/591e19171392492.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/591e19171392492.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/595dd96eada34cd.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/595dd96eada34cd.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/5deb2c83f56b4dc.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/5deb2c83f56b4dc.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/5e3698a728724a4.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/5e3698a728724a4.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/5ed196c6df72486.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/5ed196c6df72486.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/641ad05da9df471.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/641ad05da9df471.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/6a809ac959f741b.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/6a809ac959f741b.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/6b00b460f44341f.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/6b00b460f44341f.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/6c86f838dbb8488.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/6c86f838dbb8488.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/6cf087cab8b3428.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/6cf087cab8b3428.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/6e7e554474c7488.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/6e7e554474c7488.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/6f0c36b02352431.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/6f0c36b02352431.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/769a769dac7a4ca.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/769a769dac7a4ca.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/781086e5478b442.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/781086e5478b442.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/7cd4dd68726e4d4.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/7cd4dd68726e4d4.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/7da4c295bc6c479.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/7da4c295bc6c479.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/7f111a078374496.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/7f111a078374496.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/851fb5465b8f4b1.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/851fb5465b8f4b1.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/8688fbc02b5249a.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/8688fbc02b5249a.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/86e411aa6d544d5.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/86e411aa6d544d5.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/86f6c178cca54b9.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/86f6c178cca54b9.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/88028eccfbcb4c1.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/88028eccfbcb4c1.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/8f08650013314bb.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/8f08650013314bb.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/943bdc7964e54c0.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/943bdc7964e54c0.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/944894cb5e9d49f.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/944894cb5e9d49f.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/997ffb87e3994d8.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/997ffb87e3994d8.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/9c70368411b94c2.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/9c70368411b94c2.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/a05f812273e6415.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/a05f812273e6415.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/a0863a0e60b9434.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/a0863a0e60b9434.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/a4589594e55444d.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/a4589594e55444d.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/a5d24edefb1d497.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/a5d24edefb1d497.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/ad3232be93804aa.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/ad3232be93804aa.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/b2fd87f82b3345a.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/b2fd87f82b3345a.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/b332eabde466447.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/b332eabde466447.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/b7945f65834d446.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/b7945f65834d446.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/b8efd0abd57c44e.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/b8efd0abd57c44e.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/ba390c4ec9fb453.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/ba390c4ec9fb453.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/bb2ea5fc34354ae.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/bb2ea5fc34354ae.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/bd7b4e0532b941a.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/bd7b4e0532b941a.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/c5b7e41cf35f43e.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/c5b7e41cf35f43e.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/c769a9995bf4466.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/c769a9995bf4466.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/d2f7b8187dfd4ac.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/d2f7b8187dfd4ac.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/d3104432ba5d41e.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/d3104432ba5d41e.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/d4c8f0dbdb7441d.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/d4c8f0dbdb7441d.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/d50a148f966f43d.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/d50a148f966f43d.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/d54fe84fadd2445.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/d54fe84fadd2445.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/d7cb85e5bc1d47e.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/d7cb85e5bc1d47e.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/d8b028b03731468.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/d8b028b03731468.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/db9021ea2e5a4e5.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/db9021ea2e5a4e5.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/dc0a618ada3c49a.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/dc0a618ada3c49a.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/de02d630ad31419.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/de02d630ad31419.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/e63f463b3eab448.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/e63f463b3eab448.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/e73d34f9c8ec4c7.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/e73d34f9c8ec4c7.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/ee1809cd6ce8408.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/ee1809cd6ce8408.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/f337e60f0f9d422.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/f337e60f0f9d422.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/f7572efcd440455.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/f7572efcd440455.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/fa96fa9e2d8a443.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/fa96fa9e2d8a443.jpeg"
-    },
-    {
-      "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/file/Photos/fadb2ca532664b3.jpeg",
-      "PackagePath": "staticwebassets/file/Photos/fadb2ca532664b3.jpeg"
     },
     {
       "Id": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot/js/site.js",
