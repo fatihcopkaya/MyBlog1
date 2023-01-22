@@ -1,34 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/DataAccess.csproj": {}
+    "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/DataAccess.csproj": {
+    "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/DataAccess.csproj",
-        "packagesPath": "/Users/fatihcopkayaoglu/.nuget/packages/",
-        "outputPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/obj/",
+        "projectPath": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/fatihcopkayaoglu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/EntityLayer.csproj": {
-                "projectPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/EntityLayer.csproj"
+              "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -88,27 +89,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/EntityLayer.csproj": {
+    "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/EntityLayer.csproj",
-        "packagesPath": "/Users/fatihcopkayaoglu/.nuget/packages/",
-        "outputPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/",
+        "projectPath": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/fatihcopkayaoglu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -142,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

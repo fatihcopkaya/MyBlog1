@@ -8,6 +8,8 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Host.UseContentRoot(Environment.CurrentDirectory);
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddDistributedMemoryCache();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
             builder.Services.AddMvc();
@@ -24,7 +26,6 @@ builder.Services.AddControllersWithViews();
                 options.ExpireTimeSpan = TimeSpan.FromHours(24);
             });
 
-builder.Services.AddControllersWithViews();
 
 
 // string connectionString = builder.Configuration.GetConnectionString("MyConnectionDbContext");

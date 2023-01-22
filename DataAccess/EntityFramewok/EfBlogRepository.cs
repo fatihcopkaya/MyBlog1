@@ -8,17 +8,18 @@ using DataAccess.Repositories;
 using EntityLayer;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
 namespace DataAccess.EntityFramewok
 {
     public class EfBlogRepository : GenericRepository<Blog>, IBlogDal
     {
-        public readonly Microsoft.Extensions.Hosting.IHostingEnvironment _hostingEnvironment;
-        public EfBlogRepository(Microsoft.Extensions.Hosting.IHostingEnvironment hostingEnvironment)
+        public readonly IHostingEnvironment _hostingEnvironment;
+        public readonly IHttpContextAccessor _httpContextAccessor;
+        public EfBlogRepository(IHostingEnvironment hostingEnvironment, IHttpContextAccessor httpContextAccessor)
         {
             _hostingEnvironment = hostingEnvironment;
+            _httpContextAccessor = httpContextAccessor;
         }
         public EfBlogRepository()
         {
@@ -58,8 +59,10 @@ namespace DataAccess.EntityFramewok
         {
             if (file != null)
             {
+                string folderPath = Directory.GetCurrentDirectory();
+
                 string Unique = Guid.NewGuid().ToString().Replace("-", "").Substring(0, 10);
-                string path = string.Concat("/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/wwwroot" + FolderName);
+                string path = string.Concat(folderPath, "/wwwroot", FolderName);
                 if (!Directory.Exists(path))
                 {
                     Directory.CreateDirectory(path);

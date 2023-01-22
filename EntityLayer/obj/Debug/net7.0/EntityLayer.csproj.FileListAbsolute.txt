@@ -10,3 +10,15 @@
 /Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Debug/net7.0/refint/EntityLayer.dll
 /Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Debug/net7.0/EntityLayer.pdb
 /Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/Debug/net7.0/ref/EntityLayer.dll
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\PC\Documents\Github\MyBlog1\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
