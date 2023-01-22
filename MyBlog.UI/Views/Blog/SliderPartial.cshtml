@@ -103,7 +103,9 @@ img {vertical-align: middle;}
 {
   
 <div class="mySlides fade">
+  <a asp-controller="Blog" asp-action="BlogReadAll" asp-route-id="@item.BlogId">
   <img  src="~/file/Photos/@item.BlogImage" style="width:100%">
+  </a>
   <div class="text">@item.BlogTitle</div>
 </div>
   

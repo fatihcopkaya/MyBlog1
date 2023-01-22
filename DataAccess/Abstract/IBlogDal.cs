@@ -12,6 +12,8 @@ namespace DataAccess.Abstract
                List<Blog> GetListWithCategory();
                List<Blog> GetListWithCategoryByWriter(int id);
                Task<string> AddUploadAsync(IFormFile file, string FolderName);
+               
+
 
     }
 }
