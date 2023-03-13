@@ -1,0 +1,12 @@
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/bin/Release/net7.0/CoreLayer.deps.json
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/bin/Release/net7.0/CoreLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/bin/Release/net7.0/CoreLayer.pdb
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/obj/Release/net7.0/CoreLayer.csproj.AssemblyReference.cache
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/obj/Release/net7.0/CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/obj/Release/net7.0/CoreLayer.AssemblyInfoInputs.cache
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/obj/Release/net7.0/CoreLayer.AssemblyInfo.cs
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/obj/Release/net7.0/CoreLayer.csproj.CoreCompileInputs.cache
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/obj/Release/net7.0/CoreLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/obj/Release/net7.0/refint/CoreLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/obj/Release/net7.0/CoreLayer.pdb
+/Users/fatihcopkayaoglu/Desktop/MyBlog/CoreLayer/obj/Release/net7.0/ref/CoreLayer.dll

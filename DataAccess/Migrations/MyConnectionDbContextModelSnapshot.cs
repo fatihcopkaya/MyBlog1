@@ -71,7 +71,7 @@ namespace DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<DateTime>("CreatedDateTime")
-                        .HasColumnType("datetime");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<int>("UserId")
                         .HasColumnType("int");
@@ -118,7 +118,7 @@ namespace DataAccess.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<DateTime>("CommentDate")
-                        .HasColumnType("datetime");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<bool>("CommentStatus")
                         .HasColumnType("tinyint(1)");
@@ -143,7 +143,7 @@ namespace DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<DateTime>("ContactDate")
-                        .HasColumnType("datetime");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<string>("ContactMail")
                         .HasColumnType("longtext");
@@ -202,6 +202,22 @@ namespace DataAccess.Migrations
                     b.HasIndex("RoleId");
 
                     b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            UserId = 1,
+                            RoleId = 1,
+                            UserPassword = "123456",
+                            Username = "admin@admin.com"
+                        },
+                        new
+                        {
+                            UserId = 2,
+                            RoleId = 2,
+                            UserPassword = "123456",
+                            Username = "writer@writer.com"
+                        });
                 });
 
             modelBuilder.Entity("EntityLayer.Writer", b =>

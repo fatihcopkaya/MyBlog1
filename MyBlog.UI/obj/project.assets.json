@@ -1180,40 +1180,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "/Users/fatihcopkayaoglu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\MyBlog.UI\\MyBlog.UI.csproj",
+      "projectUniqueName": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/MyBlog.UI.csproj",
       "projectName": "MyBlog.UI",
-      "projectPath": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\MyBlog.UI\\MyBlog.UI.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\MyBlog.UI\\obj\\",
+      "projectPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/MyBlog.UI.csproj",
+      "packagesPath": "/Users/fatihcopkayaoglu/.nuget/packages/",
+      "outputPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/fatihcopkayaoglu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\BusinessLayer\\BusinessLayer.csproj"
+            "/Users/fatihcopkayaoglu/Desktop/MyBlog/BusinessLayer/BusinessLayer.csproj": {
+              "projectPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/BusinessLayer/BusinessLayer.csproj"
             },
-            "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\DataAccess\\DataAccess.csproj"
+            "/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/DataAccess.csproj": {
+              "projectPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/DataAccess/DataAccess.csproj"
             },
-            "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\EntityLayer.csproj"
+            "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/EntityLayer.csproj": {
+              "projectPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/EntityLayer.csproj"
             }
           }
         }
@@ -1256,7 +1255,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

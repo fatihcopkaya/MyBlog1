@@ -1,0 +1,17 @@
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/BusinessLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/BusinessLayer.deps.json
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/BusinessLayer.pdb
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/Castle.Core.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/FluentValidation.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/FluentValidation.AspNetCore.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/FluentValidation.DependencyInjectionExtensions.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/Microsoft.EntityFrameworkCore.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/MySqlConnector.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/DataAccess.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/EntityLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/EntityLayer.pdb
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/DataAccess.pdb

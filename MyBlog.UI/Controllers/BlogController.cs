@@ -13,7 +13,7 @@ namespace MyBlog.UI.Controllers
 {
 
         public class BlogController : Controller
-    {
+    {  
 
         CommentsManager com = new CommentsManager(new EfCommentsRepository());
         MyConnectionDbContext c = new MyConnectionDbContext();
@@ -81,22 +81,11 @@ namespace MyBlog.UI.Controllers
         public IActionResult BlogAdd()
         {
             CategoryManager cm = new CategoryManager(new EfCategoryRepository());
-            // List<Category> categoryvalues = (from x in cm.TGetList()
-            //                                        select new SelectListItem
-            //                                        {
-            //                                            Text = x.CategoryName,
-            //                                            Value = x.CategoryId.ToString()
-            //                                        }).ToList();
             var news= new BlogVm()
             {
                 Categories = cm.TGetList().ToList()
             };
-
-            
-            // ViewBag.cv = categoryvalues;
             return View(news);
-
-
         }
         [Authorize(Roles = "writer")]
         [HttpPost]
@@ -121,29 +110,6 @@ namespace MyBlog.UI.Controllers
                 Console.WriteLine(e.Message);
                 throw;
             }
-            // BlogValidator bv = new BlogValidator();
-            // ValidationResult results = bv.Validate(p.Blog);
-            // if (results.IsValid)
-            // {
-
-
-            //     p.Blog.UserId = UserId;
-
-
-            // }
-            // else
-            // {
-            //     foreach (var item in results.Errors)
-            //     {
-            //         ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
-            //     }
-
-
-            // }
-
-
-
-
             return View();
 
         }

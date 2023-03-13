@@ -1,0 +1,3 @@
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/CoreLayer.dll
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/CoreLayer.deps.json
+/Users/fatihcopkayaoglu/Desktop/MyBlog/Publish/CoreLayer.pdb

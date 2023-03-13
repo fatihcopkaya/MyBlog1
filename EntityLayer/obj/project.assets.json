@@ -8,26 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "/Users/fatihcopkayaoglu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "c:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\EntityLayer.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\PC\\Documents\\Github\\MyBlog1\\EntityLayer\\obj\\",
+      "projectPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/EntityLayer.csproj",
+      "packagesPath": "/Users/fatihcopkayaoglu/.nuget/packages/",
+      "outputPath": "/Users/fatihcopkayaoglu/Desktop/MyBlog/EntityLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/fatihcopkayaoglu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

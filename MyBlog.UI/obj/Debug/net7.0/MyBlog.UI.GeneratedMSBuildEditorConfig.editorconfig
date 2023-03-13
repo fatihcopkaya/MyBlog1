@@ -9,173 +9,173 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyBlog.UI
 build_property.RootNamespace = MyBlog.UI
-build_property.ProjectDir = C:\Users\PC\Documents\Github\MyBlog1\MyBlog.UI\
+build_property.ProjectDir = /Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\PC\Documents\Github\MyBlog1\MyBlog.UI
+build_property.MSBuildProjectDirectory = /Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/About/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Admin/AdminNavbarPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Admin/AdminNavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWRtaW5OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Admin/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Blog/BlogAdd.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nQWRkLmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Blog/BlogAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9CbG9nQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Blog/BlogListByWriter.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nTGlzdEJ5V3JpdGVyLmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Blog/BlogListByWriter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9CbG9nTGlzdEJ5V3JpdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Blog/BlogReadAll.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nUmVhZEFsbC5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Blog/BlogReadAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9CbG9nUmVhZEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Blog/EditBlog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0QmxvZy5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Blog/EditBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9FZGl0QmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Blog/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Blog/SliderPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xTbGlkZXJQYXJ0aWFsLmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Blog/SliderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9TbGlkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Category/AddCategory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Category/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQWRkQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Category/categoryList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcY2F0ZWdvcnlMaXN0LmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Category/categoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvY2F0ZWdvcnlMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Category/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Category/EditCategory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdENhdGVnb3J5LmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Category/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRWRpdENhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Comment/CommentListByBlog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDb21tZW50TGlzdEJ5QmxvZy5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Comment/CommentListByBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudC9Db21tZW50TGlzdEJ5QmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Comment/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxEZWxldGUuY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Comment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudC9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Comment/PartialAddComment.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxQYXJ0aWFsQWRkQ29tbWVudC5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Comment/PartialAddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudC9QYXJ0aWFsQWRkQ29tbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Contact/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Login/AdminLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWRtaW5Mb2dpbi5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Login/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vQWRtaW5Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Login/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Register/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVnaXN0ZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/AdminLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0FkbWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/Components/AddComment/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRkQ29tbWVudFxEZWZhdWx0LmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/Components/AddComment/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQWRkQ29tbWVudC9EZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/Components/CategoryList/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlMaXN0XERlZmF1bHQuY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/Components/CategoryList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2F0ZWdvcnlMaXN0L0RlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/Components/CommentListByBlog/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tbWVudExpc3RCeUJsb2dcRGVmYXVsdC5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/Components/CommentListByBlog/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ29tbWVudExpc3RCeUJsb2cvRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/Components/RegisterCityList/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVnaXN0ZXJDaXR5TGlzdFxEZWZhdWx0LmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/Components/RegisterCityList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvUmVnaXN0ZXJDaXR5TGlzdC9EZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/Partial1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwxLmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/Partial1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWwxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/Partial2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwyLmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/Partial2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWwyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/Partial3.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwzLmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/Partial3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWwzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/UserLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFVzZXJMYXlvdXQuY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1VzZXJMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/WriterLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFdyaXRlckxheW91dC5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/WriterLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1dyaXRlckxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Writer/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXEluZGV4LmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Writer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV3JpdGVyL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Writer/Test.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXFRlc3QuY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Writer/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV3JpdGVyL1Rlc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Writer/WriterFooterParital.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXFdyaXRlckZvb3RlclBhcml0YWwuY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Writer/WriterFooterParital.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV3JpdGVyL1dyaXRlckZvb3RlclBhcml0YWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Writer/WriterNavbarPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXFdyaXRlck5hdmJhclBhcnRpYWwuY3NodG1s
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Writer/WriterNavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV3JpdGVyL1dyaXRlck5hdmJhclBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/Documents/Github/MyBlog1/MyBlog.UI/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-f1ptd76lsg
+[/Users/fatihcopkayaoglu/Desktop/MyBlog/MyBlog.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fg2dlynvj5

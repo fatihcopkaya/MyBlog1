@@ -10,15 +10,15 @@ namespace DataAccess.Concrete
 {
     public class MyConnectionDbContext : DbContext
     {
-       
 
-       
-        
+
+
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            const string ConnetDeveloper = "server=sql11.freemysqlhosting.net;port=3306;database=sql11591860;user=sql11591860;password=gFU2PNWazT;Charset=utf8;";
-         
+            const string ConnetDeveloper = "server=127.0.0.1;port=3306;database=Myblog;user=root;password=12345678;Charset=utf8;";
+
             optionsBuilder.UseLazyLoadingProxies()
                 .UseMySql(ConnetDeveloper, ServerVersion.AutoDetect(ConnetDeveloper))
                 .EnableSensitiveDataLogging()
@@ -35,6 +35,28 @@ namespace DataAccess.Concrete
         public DbSet<Admin> Admins { get; set; }
         public DbSet<Role> Roles { get; set; }
         public DbSet<User> Users { get; set; }
-        
-}
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            var admin = new User()
+            {
+                UserId = 1,
+                Username = "admin@admin.com",
+                UserPassword = "123456",
+                RoleId = 1
+            };
+            modelBuilder.Entity<User>().HasData(admin);
+            base.OnModelCreating(modelBuilder);
+            var writer = new User()
+            {
+                UserId = 2,
+                Username = "writer@writer.com",
+                UserPassword = "123456",
+                RoleId = 2
+            };
+            modelBuilder.Entity<User>().HasData(writer);
+            base.OnModelCreating(modelBuilder);
+
+
+        }
+    }
 }
